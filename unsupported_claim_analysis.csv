@@ -1,0 +1,15 @@
+case_id,category,label,grounding,personalization,instruction_following,overall_score,unsupported_claims,quality_category
+3,Hallucination,Bad,2.44,2.44,2.19,1.99,1,Low Quality
+5,Wrong Personalization,Bad,2.34,2.34,3.84,2.35,1,Low Quality
+6,Wrong Personalization,Bad,2.33,2.33,1.9,1.86,1,Low Quality
+8,Instruction Failure,Bad,2.23,2.23,3.58,2.22,1,Low Quality
+15,Irrelevant,Bad,0.29,0.29,1.22,0.56,1,Low Quality
+16,Irrelevant,Bad,-0.37,-0.37,-0.18,0.0,1,Low Quality
+28,Instruction Failure,Bad,0.88,0.88,2.17,1.13,1,Low Quality
+33,Irrelevant,Bad,0.9,0.9,3.88,1.56,1,Low Quality
+34,Irrelevant,Bad,0.34,0.34,1.6,0.69,1,Low Quality
+35,Irrelevant,Bad,0.38,0.38,0.97,0.55,1,Low Quality
+36,Irrelevant,Bad,0.01,0.01,0.4,0.21,1,Low Quality
+37,Partial,Partial,2.03,2.03,3.49,2.09,1,Low Quality
+40,Partial,Partial,1.52,1.52,4.26,2.0,1,Low Quality
+45,Ambiguous,Good,3.67,3.67,1.38,2.46,1,Low Quality

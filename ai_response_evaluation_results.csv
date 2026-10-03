@@ -1,0 +1,6 @@
+Case,Prompt,Response A Score,Response B Score,Predicted Winner,Human Winner
+1,What project should I build next?,5.03,1.91,A,A
+2,What should I learn next?,5.53,1.89,A,A
+3,How should I prepare?,5.37,1.4,A,A
+4,How can I improve my project?,4.98,1.68,A,A
+5,Should I start learning CNNs?,5.79,5.23,A,A

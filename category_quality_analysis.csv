@@ -1,0 +1,12 @@
+category,cases,avg_grounding,avg_personalization,avg_instruction_following,avg_overall_score,unsupported_claims
+Ambiguous,4,3.37,3.37,2.68,3.75,1
+Grounded,6,6.39,6.39,3.42,5.97,0
+Hallucination,6,3.98,3.98,2.04,4.05,1
+Helpful,6,4.55,4.55,2.4,4.7,0
+Instruction Failure,6,4.72,4.72,3.34,4.53,2
+Irrelevant,6,0.26,0.26,1.32,0.6,6
+Partial,4,2.8,2.8,3.29,3.21,2
+Partially Correct,2,6.64,6.64,3.12,6.04,0
+Personalization,6,6.12,6.12,2.12,5.5,0
+Strong,2,5.98,5.98,3.92,5.86,0
+Wrong Personalization,2,2.34,2.34,2.87,2.1,2
